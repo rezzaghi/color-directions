@@ -1,0 +1,722 @@
+[
+    {
+        "text": "I kept thinking about blood.",
+        "target": "blood",
+        "label": "red",
+        "group": "prototype1"
+    },
+    {
+        "text": "There was a picture of blood on the wall.",
+        "target": "blood",
+        "label": "red",
+        "group": "prototype1"
+    },
+    {
+        "text": "He told me a story about blood.",
+        "target": "blood",
+        "label": "red",
+        "group": "prototype1"
+    },
+    {
+        "text": "She pointed at blood and smiled.",
+        "target": "blood",
+        "label": "red",
+        "group": "prototype1"
+    },
+    {
+        "text": "I kept thinking about the clear sky.",
+        "target": "the clear sky",
+        "label": "blue",
+        "group": "prototype1"
+    },
+    {
+        "text": "There was a picture of the clear sky on the wall.",
+        "target": "the clear sky",
+        "label": "blue",
+        "group": "prototype1"
+    },
+    {
+        "text": "He told me a story about the clear sky.",
+        "target": "the clear sky",
+        "label": "blue",
+        "group": "prototype1"
+    },
+    {
+        "text": "She pointed at the clear sky and smiled.",
+        "target": "the clear sky",
+        "label": "blue",
+        "group": "prototype1"
+    },
+    {
+        "text": "I kept thinking about fresh grass.",
+        "target": "fresh grass",
+        "label": "green",
+        "group": "prototype1"
+    },
+    {
+        "text": "There was a picture of fresh grass on the wall.",
+        "target": "fresh grass",
+        "label": "green",
+        "group": "prototype1"
+    },
+    {
+        "text": "He told me a story about fresh grass.",
+        "target": "fresh grass",
+        "label": "green",
+        "group": "prototype1"
+    },
+    {
+        "text": "She pointed at fresh grass and smiled.",
+        "target": "fresh grass",
+        "label": "green",
+        "group": "prototype1"
+    },
+    {
+        "text": "I kept thinking about a ripe tomato.",
+        "target": "a ripe tomato",
+        "label": "red",
+        "group": "prototype2"
+    },
+    {
+        "text": "There was a picture of a ripe tomato on the wall.",
+        "target": "a ripe tomato",
+        "label": "red",
+        "group": "prototype2"
+    },
+    {
+        "text": "He told me a story about a ripe tomato.",
+        "target": "a ripe tomato",
+        "label": "red",
+        "group": "prototype2"
+    },
+    {
+        "text": "She pointed at a ripe tomato and smiled.",
+        "target": "a ripe tomato",
+        "label": "red",
+        "group": "prototype2"
+    },
+    {
+        "text": "I kept thinking about the open ocean.",
+        "target": "the open ocean",
+        "label": "blue",
+        "group": "prototype2"
+    },
+    {
+        "text": "There was a picture of the open ocean on the wall.",
+        "target": "the open ocean",
+        "label": "blue",
+        "group": "prototype2"
+    },
+    {
+        "text": "He told me a story about the open ocean.",
+        "target": "the open ocean",
+        "label": "blue",
+        "group": "prototype2"
+    },
+    {
+        "text": "She pointed at the open ocean and smiled.",
+        "target": "the open ocean",
+        "label": "blue",
+        "group": "prototype2"
+    },
+    {
+        "text": "I kept thinking about a fresh lime.",
+        "target": "a fresh lime",
+        "label": "green",
+        "group": "prototype2"
+    },
+    {
+        "text": "There was a picture of a fresh lime on the wall.",
+        "target": "a fresh lime",
+        "label": "green",
+        "group": "prototype2"
+    },
+    {
+        "text": "He told me a story about a fresh lime.",
+        "target": "a fresh lime",
+        "label": "green",
+        "group": "prototype2"
+    },
+    {
+        "text": "She pointed at a fresh lime and smiled.",
+        "target": "a fresh lime",
+        "label": "green",
+        "group": "prototype2"
+    },
+    {
+        "text": "I kept thinking about a ruby.",
+        "target": "a ruby",
+        "label": "red",
+        "group": "gemstone1"
+    },
+    {
+        "text": "There was a picture of a ruby on the wall.",
+        "target": "a ruby",
+        "label": "red",
+        "group": "gemstone1"
+    },
+    {
+        "text": "He told me a story about a ruby.",
+        "target": "a ruby",
+        "label": "red",
+        "group": "gemstone1"
+    },
+    {
+        "text": "She pointed at a ruby and smiled.",
+        "target": "a ruby",
+        "label": "red",
+        "group": "gemstone1"
+    },
+    {
+        "text": "I kept thinking about a sapphire.",
+        "target": "a sapphire",
+        "label": "blue",
+        "group": "gemstone1"
+    },
+    {
+        "text": "There was a picture of a sapphire on the wall.",
+        "target": "a sapphire",
+        "label": "blue",
+        "group": "gemstone1"
+    },
+    {
+        "text": "He told me a story about a sapphire.",
+        "target": "a sapphire",
+        "label": "blue",
+        "group": "gemstone1"
+    },
+    {
+        "text": "She pointed at a sapphire and smiled.",
+        "target": "a sapphire",
+        "label": "blue",
+        "group": "gemstone1"
+    },
+    {
+        "text": "I kept thinking about an emerald.",
+        "target": "an emerald",
+        "label": "green",
+        "group": "gemstone1"
+    },
+    {
+        "text": "There was a picture of an emerald on the wall.",
+        "target": "an emerald",
+        "label": "green",
+        "group": "gemstone1"
+    },
+    {
+        "text": "He told me a story about an emerald.",
+        "target": "an emerald",
+        "label": "green",
+        "group": "gemstone1"
+    },
+    {
+        "text": "She pointed at an emerald and smiled.",
+        "target": "an emerald",
+        "label": "green",
+        "group": "gemstone1"
+    },
+    {
+        "text": "I kept thinking about a garnet.",
+        "target": "a garnet",
+        "label": "red",
+        "group": "gemstone2"
+    },
+    {
+        "text": "There was a picture of a garnet on the wall.",
+        "target": "a garnet",
+        "label": "red",
+        "group": "gemstone2"
+    },
+    {
+        "text": "He told me a story about a garnet.",
+        "target": "a garnet",
+        "label": "red",
+        "group": "gemstone2"
+    },
+    {
+        "text": "She pointed at a garnet and smiled.",
+        "target": "a garnet",
+        "label": "red",
+        "group": "gemstone2"
+    },
+    {
+        "text": "I kept thinking about lapis lazuli.",
+        "target": "lapis lazuli",
+        "label": "blue",
+        "group": "gemstone2"
+    },
+    {
+        "text": "There was a picture of lapis lazuli on the wall.",
+        "target": "lapis lazuli",
+        "label": "blue",
+        "group": "gemstone2"
+    },
+    {
+        "text": "He told me a story about lapis lazuli.",
+        "target": "lapis lazuli",
+        "label": "blue",
+        "group": "gemstone2"
+    },
+    {
+        "text": "She pointed at lapis lazuli and smiled.",
+        "target": "lapis lazuli",
+        "label": "blue",
+        "group": "gemstone2"
+    },
+    {
+        "text": "I kept thinking about jade.",
+        "target": "jade",
+        "label": "green",
+        "group": "gemstone2"
+    },
+    {
+        "text": "There was a picture of jade on the wall.",
+        "target": "jade",
+        "label": "green",
+        "group": "gemstone2"
+    },
+    {
+        "text": "He told me a story about jade.",
+        "target": "jade",
+        "label": "green",
+        "group": "gemstone2"
+    },
+    {
+        "text": "She pointed at jade and smiled.",
+        "target": "jade",
+        "label": "green",
+        "group": "gemstone2"
+    },
+    {
+        "text": "I kept thinking about Elmo.",
+        "target": "Elmo",
+        "label": "red",
+        "group": "muppet"
+    },
+    {
+        "text": "There was a picture of Elmo on the wall.",
+        "target": "Elmo",
+        "label": "red",
+        "group": "muppet"
+    },
+    {
+        "text": "He told me a story about Elmo.",
+        "target": "Elmo",
+        "label": "red",
+        "group": "muppet"
+    },
+    {
+        "text": "She pointed at Elmo and smiled.",
+        "target": "Elmo",
+        "label": "red",
+        "group": "muppet"
+    },
+    {
+        "text": "I kept thinking about Cookie Monster.",
+        "target": "Cookie Monster",
+        "label": "blue",
+        "group": "muppet"
+    },
+    {
+        "text": "There was a picture of Cookie Monster on the wall.",
+        "target": "Cookie Monster",
+        "label": "blue",
+        "group": "muppet"
+    },
+    {
+        "text": "He told me a story about Cookie Monster.",
+        "target": "Cookie Monster",
+        "label": "blue",
+        "group": "muppet"
+    },
+    {
+        "text": "She pointed at Cookie Monster and smiled.",
+        "target": "Cookie Monster",
+        "label": "blue",
+        "group": "muppet"
+    },
+    {
+        "text": "I kept thinking about Kermit the Frog.",
+        "target": "Kermit the Frog",
+        "label": "green",
+        "group": "muppet"
+    },
+    {
+        "text": "There was a picture of Kermit the Frog on the wall.",
+        "target": "Kermit the Frog",
+        "label": "green",
+        "group": "muppet"
+    },
+    {
+        "text": "He told me a story about Kermit the Frog.",
+        "target": "Kermit the Frog",
+        "label": "green",
+        "group": "muppet"
+    },
+    {
+        "text": "She pointed at Kermit the Frog and smiled.",
+        "target": "Kermit the Frog",
+        "label": "green",
+        "group": "muppet"
+    },
+    {
+        "text": "I kept thinking about Mario.",
+        "target": "Mario",
+        "label": "red",
+        "group": "videogame"
+    },
+    {
+        "text": "There was a picture of Mario on the wall.",
+        "target": "Mario",
+        "label": "red",
+        "group": "videogame"
+    },
+    {
+        "text": "He told me a story about Mario.",
+        "target": "Mario",
+        "label": "red",
+        "group": "videogame"
+    },
+    {
+        "text": "She pointed at Mario and smiled.",
+        "target": "Mario",
+        "label": "red",
+        "group": "videogame"
+    },
+    {
+        "text": "I kept thinking about Sonic the Hedgehog.",
+        "target": "Sonic the Hedgehog",
+        "label": "blue",
+        "group": "videogame"
+    },
+    {
+        "text": "There was a picture of Sonic the Hedgehog on the wall.",
+        "target": "Sonic the Hedgehog",
+        "label": "blue",
+        "group": "videogame"
+    },
+    {
+        "text": "He told me a story about Sonic the Hedgehog.",
+        "target": "Sonic the Hedgehog",
+        "label": "blue",
+        "group": "videogame"
+    },
+    {
+        "text": "She pointed at Sonic the Hedgehog and smiled.",
+        "target": "Sonic the Hedgehog",
+        "label": "blue",
+        "group": "videogame"
+    },
+    {
+        "text": "I kept thinking about Yoshi.",
+        "target": "Yoshi",
+        "label": "green",
+        "group": "videogame"
+    },
+    {
+        "text": "There was a picture of Yoshi on the wall.",
+        "target": "Yoshi",
+        "label": "green",
+        "group": "videogame"
+    },
+    {
+        "text": "He told me a story about Yoshi.",
+        "target": "Yoshi",
+        "label": "green",
+        "group": "videogame"
+    },
+    {
+        "text": "She pointed at Yoshi and smiled.",
+        "target": "Yoshi",
+        "label": "green",
+        "group": "videogame"
+    },
+    {
+        "text": "I kept thinking about the Coca-Cola logo.",
+        "target": "the Coca-Cola logo",
+        "label": "red",
+        "group": "logo"
+    },
+    {
+        "text": "There was a picture of the Coca-Cola logo on the wall.",
+        "target": "the Coca-Cola logo",
+        "label": "red",
+        "group": "logo"
+    },
+    {
+        "text": "He told me a story about the Coca-Cola logo.",
+        "target": "the Coca-Cola logo",
+        "label": "red",
+        "group": "logo"
+    },
+    {
+        "text": "She pointed at the Coca-Cola logo and smiled.",
+        "target": "the Coca-Cola logo",
+        "label": "red",
+        "group": "logo"
+    },
+    {
+        "text": "I kept thinking about the Facebook logo.",
+        "target": "the Facebook logo",
+        "label": "blue",
+        "group": "logo"
+    },
+    {
+        "text": "There was a picture of the Facebook logo on the wall.",
+        "target": "the Facebook logo",
+        "label": "blue",
+        "group": "logo"
+    },
+    {
+        "text": "He told me a story about the Facebook logo.",
+        "target": "the Facebook logo",
+        "label": "blue",
+        "group": "logo"
+    },
+    {
+        "text": "She pointed at the Facebook logo and smiled.",
+        "target": "the Facebook logo",
+        "label": "blue",
+        "group": "logo"
+    },
+    {
+        "text": "I kept thinking about the Starbucks logo.",
+        "target": "the Starbucks logo",
+        "label": "green",
+        "group": "logo"
+    },
+    {
+        "text": "There was a picture of the Starbucks logo on the wall.",
+        "target": "the Starbucks logo",
+        "label": "green",
+        "group": "logo"
+    },
+    {
+        "text": "He told me a story about the Starbucks logo.",
+        "target": "the Starbucks logo",
+        "label": "green",
+        "group": "logo"
+    },
+    {
+        "text": "She pointed at the Starbucks logo and smiled.",
+        "target": "the Starbucks logo",
+        "label": "green",
+        "group": "logo"
+    },
+    {
+        "text": "I kept thinking about a fire truck.",
+        "target": "a fire truck",
+        "label": "red",
+        "group": "manmade"
+    },
+    {
+        "text": "There was a picture of a fire truck on the wall.",
+        "target": "a fire truck",
+        "label": "red",
+        "group": "manmade"
+    },
+    {
+        "text": "He told me a story about a fire truck.",
+        "target": "a fire truck",
+        "label": "red",
+        "group": "manmade"
+    },
+    {
+        "text": "She pointed at a fire truck and smiled.",
+        "target": "a fire truck",
+        "label": "red",
+        "group": "manmade"
+    },
+    {
+        "text": "I kept thinking about a pair of jeans.",
+        "target": "a pair of jeans",
+        "label": "blue",
+        "group": "manmade"
+    },
+    {
+        "text": "There was a picture of a pair of jeans on the wall.",
+        "target": "a pair of jeans",
+        "label": "blue",
+        "group": "manmade"
+    },
+    {
+        "text": "He told me a story about a pair of jeans.",
+        "target": "a pair of jeans",
+        "label": "blue",
+        "group": "manmade"
+    },
+    {
+        "text": "She pointed at a pair of jeans and smiled.",
+        "target": "a pair of jeans",
+        "label": "blue",
+        "group": "manmade"
+    },
+    {
+        "text": "I kept thinking about a dollar bill.",
+        "target": "a dollar bill",
+        "label": "green",
+        "group": "manmade"
+    },
+    {
+        "text": "There was a picture of a dollar bill on the wall.",
+        "target": "a dollar bill",
+        "label": "green",
+        "group": "manmade"
+    },
+    {
+        "text": "He told me a story about a dollar bill.",
+        "target": "a dollar bill",
+        "label": "green",
+        "group": "manmade"
+    },
+    {
+        "text": "She pointed at a dollar bill and smiled.",
+        "target": "a dollar bill",
+        "label": "green",
+        "group": "manmade"
+    },
+    {
+        "text": "I kept thinking about Santa Claus.",
+        "target": "Santa Claus",
+        "label": "red",
+        "group": "character"
+    },
+    {
+        "text": "There was a picture of Santa Claus on the wall.",
+        "target": "Santa Claus",
+        "label": "red",
+        "group": "character"
+    },
+    {
+        "text": "He told me a story about Santa Claus.",
+        "target": "Santa Claus",
+        "label": "red",
+        "group": "character"
+    },
+    {
+        "text": "She pointed at Santa Claus and smiled.",
+        "target": "Santa Claus",
+        "label": "red",
+        "group": "character"
+    },
+    {
+        "text": "I kept thinking about a Smurf.",
+        "target": "a Smurf",
+        "label": "blue",
+        "group": "character"
+    },
+    {
+        "text": "There was a picture of a Smurf on the wall.",
+        "target": "a Smurf",
+        "label": "blue",
+        "group": "character"
+    },
+    {
+        "text": "He told me a story about a Smurf.",
+        "target": "a Smurf",
+        "label": "blue",
+        "group": "character"
+    },
+    {
+        "text": "She pointed at a Smurf and smiled.",
+        "target": "a Smurf",
+        "label": "blue",
+        "group": "character"
+    },
+    {
+        "text": "I kept thinking about the Grinch.",
+        "target": "the Grinch",
+        "label": "green",
+        "group": "character"
+    },
+    {
+        "text": "There was a picture of the Grinch on the wall.",
+        "target": "the Grinch",
+        "label": "green",
+        "group": "character"
+    },
+    {
+        "text": "He told me a story about the Grinch.",
+        "target": "the Grinch",
+        "label": "green",
+        "group": "character"
+    },
+    {
+        "text": "She pointed at the Grinch and smiled.",
+        "target": "the Grinch",
+        "label": "green",
+        "group": "character"
+    },
+    {
+        "text": "I kept thinking about a rose.",
+        "target": "a rose",
+        "label": "red",
+        "group": "plant"
+    },
+    {
+        "text": "There was a picture of a rose on the wall.",
+        "target": "a rose",
+        "label": "red",
+        "group": "plant"
+    },
+    {
+        "text": "He told me a story about a rose.",
+        "target": "a rose",
+        "label": "red",
+        "group": "plant"
+    },
+    {
+        "text": "She pointed at a rose and smiled.",
+        "target": "a rose",
+        "label": "red",
+        "group": "plant"
+    },
+    {
+        "text": "I kept thinking about a cornflower.",
+        "target": "a cornflower",
+        "label": "blue",
+        "group": "plant"
+    },
+    {
+        "text": "There was a picture of a cornflower on the wall.",
+        "target": "a cornflower",
+        "label": "blue",
+        "group": "plant"
+    },
+    {
+        "text": "He told me a story about a cornflower.",
+        "target": "a cornflower",
+        "label": "blue",
+        "group": "plant"
+    },
+    {
+        "text": "She pointed at a cornflower and smiled.",
+        "target": "a cornflower",
+        "label": "blue",
+        "group": "plant"
+    },
+    {
+        "text": "I kept thinking about a fern.",
+        "target": "a fern",
+        "label": "green",
+        "group": "plant"
+    },
+    {
+        "text": "There was a picture of a fern on the wall.",
+        "target": "a fern",
+        "label": "green",
+        "group": "plant"
+    },
+    {
+        "text": "He told me a story about a fern.",
+        "target": "a fern",
+        "label": "green",
+        "group": "plant"
+    },
+    {
+        "text": "She pointed at a fern and smiled.",
+        "target": "a fern",
+        "label": "green",
+        "group": "plant"
+    }
+]

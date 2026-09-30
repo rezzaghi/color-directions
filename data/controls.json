@@ -1,0 +1,290 @@
+[
+    {
+        "text": "I kept thinking about a chair.",
+        "target": "a chair",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a chair on the wall.",
+        "target": "a chair",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a chair.",
+        "target": "a chair",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a chair and smiled.",
+        "target": "a chair",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a spoon.",
+        "target": "a spoon",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a spoon on the wall.",
+        "target": "a spoon",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a spoon.",
+        "target": "a spoon",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a spoon and smiled.",
+        "target": "a spoon",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a book.",
+        "target": "a book",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a book on the wall.",
+        "target": "a book",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a book.",
+        "target": "a book",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a book and smiled.",
+        "target": "a book",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a window.",
+        "target": "a window",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a window on the wall.",
+        "target": "a window",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a window.",
+        "target": "a window",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a window and smiled.",
+        "target": "a window",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a table.",
+        "target": "a table",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a table on the wall.",
+        "target": "a table",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a table.",
+        "target": "a table",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a table and smiled.",
+        "target": "a table",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a key.",
+        "target": "a key",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a key on the wall.",
+        "target": "a key",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a key.",
+        "target": "a key",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a key and smiled.",
+        "target": "a key",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a clock.",
+        "target": "a clock",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a clock on the wall.",
+        "target": "a clock",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a clock.",
+        "target": "a clock",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a clock and smiled.",
+        "target": "a clock",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a bicycle.",
+        "target": "a bicycle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a bicycle on the wall.",
+        "target": "a bicycle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a bicycle.",
+        "target": "a bicycle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a bicycle and smiled.",
+        "target": "a bicycle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a laptop.",
+        "target": "a laptop",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a laptop on the wall.",
+        "target": "a laptop",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a laptop.",
+        "target": "a laptop",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a laptop and smiled.",
+        "target": "a laptop",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a pillow.",
+        "target": "a pillow",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a pillow on the wall.",
+        "target": "a pillow",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a pillow.",
+        "target": "a pillow",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a pillow and smiled.",
+        "target": "a pillow",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a suitcase.",
+        "target": "a suitcase",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a suitcase on the wall.",
+        "target": "a suitcase",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a suitcase.",
+        "target": "a suitcase",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a suitcase and smiled.",
+        "target": "a suitcase",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "I kept thinking about a bottle.",
+        "target": "a bottle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "There was a picture of a bottle on the wall.",
+        "target": "a bottle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "He told me a story about a bottle.",
+        "target": "a bottle",
+        "label": "none",
+        "group": "control"
+    },
+    {
+        "text": "She pointed at a bottle and smiled.",
+        "target": "a bottle",
+        "label": "none",
+        "group": "control"
+    }
+]

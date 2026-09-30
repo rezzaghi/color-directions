@@ -1,0 +1,722 @@
+[
+    {
+        "text": "She wore a red dress to the party.",
+        "target": "red",
+        "label": "red",
+        "group": 0
+    },
+    {
+        "text": "She wore a blue dress to the party.",
+        "target": "blue",
+        "label": "blue",
+        "group": 0
+    },
+    {
+        "text": "She wore a green dress to the party.",
+        "target": "green",
+        "label": "green",
+        "group": 0
+    },
+    {
+        "text": "He painted the door red.",
+        "target": "red",
+        "label": "red",
+        "group": 1
+    },
+    {
+        "text": "He painted the door blue.",
+        "target": "blue",
+        "label": "blue",
+        "group": 1
+    },
+    {
+        "text": "He painted the door green.",
+        "target": "green",
+        "label": "green",
+        "group": 1
+    },
+    {
+        "text": "They bought a red car last year.",
+        "target": "red",
+        "label": "red",
+        "group": 2
+    },
+    {
+        "text": "They bought a blue car last year.",
+        "target": "blue",
+        "label": "blue",
+        "group": 2
+    },
+    {
+        "text": "They bought a green car last year.",
+        "target": "green",
+        "label": "green",
+        "group": 2
+    },
+    {
+        "text": "I drank my coffee from a red mug.",
+        "target": "red",
+        "label": "red",
+        "group": 3
+    },
+    {
+        "text": "I drank my coffee from a blue mug.",
+        "target": "blue",
+        "label": "blue",
+        "group": 3
+    },
+    {
+        "text": "I drank my coffee from a green mug.",
+        "target": "green",
+        "label": "green",
+        "group": 3
+    },
+    {
+        "text": "The child was holding a red balloon.",
+        "target": "red",
+        "label": "red",
+        "group": 4
+    },
+    {
+        "text": "The child was holding a blue balloon.",
+        "target": "blue",
+        "label": "blue",
+        "group": 4
+    },
+    {
+        "text": "The child was holding a green balloon.",
+        "target": "green",
+        "label": "green",
+        "group": 4
+    },
+    {
+        "text": "Please sign the form with the red pen.",
+        "target": "red",
+        "label": "red",
+        "group": 5
+    },
+    {
+        "text": "Please sign the form with the blue pen.",
+        "target": "blue",
+        "label": "blue",
+        "group": 5
+    },
+    {
+        "text": "Please sign the form with the green pen.",
+        "target": "green",
+        "label": "green",
+        "group": 5
+    },
+    {
+        "text": "He always wears a red shirt on Fridays.",
+        "target": "red",
+        "label": "red",
+        "group": 6
+    },
+    {
+        "text": "He always wears a blue shirt on Fridays.",
+        "target": "blue",
+        "label": "blue",
+        "group": 6
+    },
+    {
+        "text": "He always wears a green shirt on Fridays.",
+        "target": "green",
+        "label": "green",
+        "group": 6
+    },
+    {
+        "text": "My sister rides a red bike to school.",
+        "target": "red",
+        "label": "red",
+        "group": 7
+    },
+    {
+        "text": "My sister rides a blue bike to school.",
+        "target": "blue",
+        "label": "blue",
+        "group": 7
+    },
+    {
+        "text": "My sister rides a green bike to school.",
+        "target": "green",
+        "label": "green",
+        "group": 7
+    },
+    {
+        "text": "We sat on the red sofa in the living room.",
+        "target": "red",
+        "label": "red",
+        "group": 8
+    },
+    {
+        "text": "We sat on the blue sofa in the living room.",
+        "target": "blue",
+        "label": "blue",
+        "group": 8
+    },
+    {
+        "text": "We sat on the green sofa in the living room.",
+        "target": "green",
+        "label": "green",
+        "group": 8
+    },
+    {
+        "text": "Put the receipts in the red folder.",
+        "target": "red",
+        "label": "red",
+        "group": 9
+    },
+    {
+        "text": "Put the receipts in the blue folder.",
+        "target": "blue",
+        "label": "blue",
+        "group": 9
+    },
+    {
+        "text": "Put the receipts in the green folder.",
+        "target": "green",
+        "label": "green",
+        "group": 9
+    },
+    {
+        "text": "She wrote everything down in a red notebook.",
+        "target": "red",
+        "label": "red",
+        "group": 10
+    },
+    {
+        "text": "She wrote everything down in a blue notebook.",
+        "target": "blue",
+        "label": "blue",
+        "group": 10
+    },
+    {
+        "text": "She wrote everything down in a green notebook.",
+        "target": "green",
+        "label": "green",
+        "group": 10
+    },
+    {
+        "text": "I forgot my red umbrella on the bus.",
+        "target": "red",
+        "label": "red",
+        "group": 11
+    },
+    {
+        "text": "I forgot my blue umbrella on the bus.",
+        "target": "blue",
+        "label": "blue",
+        "group": 11
+    },
+    {
+        "text": "I forgot my green umbrella on the bus.",
+        "target": "green",
+        "label": "green",
+        "group": 11
+    },
+    {
+        "text": "He wrapped a red scarf around his neck.",
+        "target": "red",
+        "label": "red",
+        "group": 12
+    },
+    {
+        "text": "He wrapped a blue scarf around his neck.",
+        "target": "blue",
+        "label": "blue",
+        "group": 12
+    },
+    {
+        "text": "He wrapped a green scarf around his neck.",
+        "target": "green",
+        "label": "green",
+        "group": 12
+    },
+    {
+        "text": "The kids filled the red bucket with sand.",
+        "target": "red",
+        "label": "red",
+        "group": 13
+    },
+    {
+        "text": "The kids filled the blue bucket with sand.",
+        "target": "blue",
+        "label": "blue",
+        "group": 13
+    },
+    {
+        "text": "The kids filled the green bucket with sand.",
+        "target": "green",
+        "label": "green",
+        "group": 13
+    },
+    {
+        "text": "She dried her hands on a red towel.",
+        "target": "red",
+        "label": "red",
+        "group": 14
+    },
+    {
+        "text": "She dried her hands on a blue towel.",
+        "target": "blue",
+        "label": "blue",
+        "group": 14
+    },
+    {
+        "text": "She dried her hands on a green towel.",
+        "target": "green",
+        "label": "green",
+        "group": 14
+    },
+    {
+        "text": "The teacher corrected the test with a red marker.",
+        "target": "red",
+        "label": "red",
+        "group": 15
+    },
+    {
+        "text": "The teacher corrected the test with a blue marker.",
+        "target": "blue",
+        "label": "blue",
+        "group": 15
+    },
+    {
+        "text": "The teacher corrected the test with a green marker.",
+        "target": "green",
+        "label": "green",
+        "group": 15
+    },
+    {
+        "text": "The gift came in a red box.",
+        "target": "red",
+        "label": "red",
+        "group": 16
+    },
+    {
+        "text": "The gift came in a blue box.",
+        "target": "blue",
+        "label": "blue",
+        "group": 16
+    },
+    {
+        "text": "The gift came in a green box.",
+        "target": "green",
+        "label": "green",
+        "group": 16
+    },
+    {
+        "text": "She tied a red ribbon around the package.",
+        "target": "red",
+        "label": "red",
+        "group": 17
+    },
+    {
+        "text": "She tied a blue ribbon around the package.",
+        "target": "blue",
+        "label": "blue",
+        "group": 17
+    },
+    {
+        "text": "She tied a green ribbon around the package.",
+        "target": "green",
+        "label": "green",
+        "group": 17
+    },
+    {
+        "text": "He carried a red backpack on the trip.",
+        "target": "red",
+        "label": "red",
+        "group": 18
+    },
+    {
+        "text": "He carried a blue backpack on the trip.",
+        "target": "blue",
+        "label": "blue",
+        "group": 18
+    },
+    {
+        "text": "He carried a green backpack on the trip.",
+        "target": "green",
+        "label": "green",
+        "group": 18
+    },
+    {
+        "text": "A red lamp stood in the corner of the room.",
+        "target": "red",
+        "label": "red",
+        "group": 19
+    },
+    {
+        "text": "A blue lamp stood in the corner of the room.",
+        "target": "blue",
+        "label": "blue",
+        "group": 19
+    },
+    {
+        "text": "A green lamp stood in the corner of the room.",
+        "target": "green",
+        "label": "green",
+        "group": 19
+    },
+    {
+        "text": "My grandmother knitted me a red sweater.",
+        "target": "red",
+        "label": "red",
+        "group": 20
+    },
+    {
+        "text": "My grandmother knitted me a blue sweater.",
+        "target": "blue",
+        "label": "blue",
+        "group": 20
+    },
+    {
+        "text": "My grandmother knitted me a green sweater.",
+        "target": "green",
+        "label": "green",
+        "group": 20
+    },
+    {
+        "text": "He lost his red hat at the concert.",
+        "target": "red",
+        "label": "red",
+        "group": 21
+    },
+    {
+        "text": "He lost his blue hat at the concert.",
+        "target": "blue",
+        "label": "blue",
+        "group": 21
+    },
+    {
+        "text": "He lost his green hat at the concert.",
+        "target": "green",
+        "label": "green",
+        "group": 21
+    },
+    {
+        "text": "The children flew a red kite at the beach.",
+        "target": "red",
+        "label": "red",
+        "group": 22
+    },
+    {
+        "text": "The children flew a blue kite at the beach.",
+        "target": "blue",
+        "label": "blue",
+        "group": 22
+    },
+    {
+        "text": "The children flew a green kite at the beach.",
+        "target": "green",
+        "label": "green",
+        "group": 22
+    },
+    {
+        "text": "The letter arrived in a red envelope.",
+        "target": "red",
+        "label": "red",
+        "group": 23
+    },
+    {
+        "text": "The letter arrived in a blue envelope.",
+        "target": "blue",
+        "label": "blue",
+        "group": 23
+    },
+    {
+        "text": "The letter arrived in a green envelope.",
+        "target": "green",
+        "label": "green",
+        "group": 23
+    },
+    {
+        "text": "I bought a new red toothbrush.",
+        "target": "red",
+        "label": "red",
+        "group": 24
+    },
+    {
+        "text": "I bought a new blue toothbrush.",
+        "target": "blue",
+        "label": "blue",
+        "group": 24
+    },
+    {
+        "text": "I bought a new green toothbrush.",
+        "target": "green",
+        "label": "green",
+        "group": 24
+    },
+    {
+        "text": "They put a red rug in the hallway.",
+        "target": "red",
+        "label": "red",
+        "group": 25
+    },
+    {
+        "text": "They put a blue rug in the hallway.",
+        "target": "blue",
+        "label": "blue",
+        "group": 25
+    },
+    {
+        "text": "They put a green rug in the hallway.",
+        "target": "green",
+        "label": "green",
+        "group": 25
+    },
+    {
+        "text": "She hung red curtains in the bedroom.",
+        "target": "red",
+        "label": "red",
+        "group": 26
+    },
+    {
+        "text": "She hung blue curtains in the bedroom.",
+        "target": "blue",
+        "label": "blue",
+        "group": 26
+    },
+    {
+        "text": "She hung green curtains in the bedroom.",
+        "target": "green",
+        "label": "green",
+        "group": 26
+    },
+    {
+        "text": "The bathroom walls were covered in red tiles.",
+        "target": "red",
+        "label": "red",
+        "group": 27
+    },
+    {
+        "text": "The bathroom walls were covered in blue tiles.",
+        "target": "blue",
+        "label": "blue",
+        "group": 27
+    },
+    {
+        "text": "The bathroom walls were covered in green tiles.",
+        "target": "green",
+        "label": "green",
+        "group": 27
+    },
+    {
+        "text": "He wore red gloves while gardening.",
+        "target": "red",
+        "label": "red",
+        "group": 28
+    },
+    {
+        "text": "He wore blue gloves while gardening.",
+        "target": "blue",
+        "label": "blue",
+        "group": 28
+    },
+    {
+        "text": "He wore green gloves while gardening.",
+        "target": "green",
+        "label": "green",
+        "group": 28
+    },
+    {
+        "text": "I can't find my other red sock.",
+        "target": "red",
+        "label": "red",
+        "group": 29
+    },
+    {
+        "text": "I can't find my other blue sock.",
+        "target": "blue",
+        "label": "blue",
+        "group": 29
+    },
+    {
+        "text": "I can't find my other green sock.",
+        "target": "green",
+        "label": "green",
+        "group": 29
+    },
+    {
+        "text": "They painted the fence red last summer.",
+        "target": "red",
+        "label": "red",
+        "group": 30
+    },
+    {
+        "text": "They painted the fence blue last summer.",
+        "target": "blue",
+        "label": "blue",
+        "group": 30
+    },
+    {
+        "text": "They painted the fence green last summer.",
+        "target": "green",
+        "label": "green",
+        "group": 30
+    },
+    {
+        "text": "A small red boat was tied to the dock.",
+        "target": "red",
+        "label": "red",
+        "group": 31
+    },
+    {
+        "text": "A small blue boat was tied to the dock.",
+        "target": "blue",
+        "label": "blue",
+        "group": 31
+    },
+    {
+        "text": "A small green boat was tied to the dock.",
+        "target": "green",
+        "label": "green",
+        "group": 31
+    },
+    {
+        "text": "The child picked the red crayon from the box.",
+        "target": "red",
+        "label": "red",
+        "group": 32
+    },
+    {
+        "text": "The child picked the blue crayon from the box.",
+        "target": "blue",
+        "label": "blue",
+        "group": 32
+    },
+    {
+        "text": "The child picked the green crayon from the box.",
+        "target": "green",
+        "label": "green",
+        "group": 32
+    },
+    {
+        "text": "One red button was missing from his coat.",
+        "target": "red",
+        "label": "red",
+        "group": 33
+    },
+    {
+        "text": "One blue button was missing from his coat.",
+        "target": "blue",
+        "label": "blue",
+        "group": 33
+    },
+    {
+        "text": "One green button was missing from his coat.",
+        "target": "green",
+        "label": "green",
+        "group": 33
+    },
+    {
+        "text": "She dyed her hair red for the festival.",
+        "target": "red",
+        "label": "red",
+        "group": 34
+    },
+    {
+        "text": "She dyed her hair blue for the festival.",
+        "target": "blue",
+        "label": "blue",
+        "group": 34
+    },
+    {
+        "text": "She dyed her hair green for the festival.",
+        "target": "green",
+        "label": "green",
+        "group": 34
+    },
+    {
+        "text": "The walls of the office were painted red.",
+        "target": "red",
+        "label": "red",
+        "group": 35
+    },
+    {
+        "text": "The walls of the office were painted blue.",
+        "target": "blue",
+        "label": "blue",
+        "group": 35
+    },
+    {
+        "text": "The walls of the office were painted green.",
+        "target": "green",
+        "label": "green",
+        "group": 35
+    },
+    {
+        "text": "He keeps his tools in a red toolbox.",
+        "target": "red",
+        "label": "red",
+        "group": 36
+    },
+    {
+        "text": "He keeps his tools in a blue toolbox.",
+        "target": "blue",
+        "label": "blue",
+        "group": 36
+    },
+    {
+        "text": "He keeps his tools in a green toolbox.",
+        "target": "green",
+        "label": "green",
+        "group": 36
+    },
+    {
+        "text": "She bought a red phone case online.",
+        "target": "red",
+        "label": "red",
+        "group": 37
+    },
+    {
+        "text": "She bought a blue phone case online.",
+        "target": "blue",
+        "label": "blue",
+        "group": 37
+    },
+    {
+        "text": "She bought a green phone case online.",
+        "target": "green",
+        "label": "green",
+        "group": 37
+    },
+    {
+        "text": "The restaurant had red chairs on the terrace.",
+        "target": "red",
+        "label": "red",
+        "group": 38
+    },
+    {
+        "text": "The restaurant had blue chairs on the terrace.",
+        "target": "blue",
+        "label": "blue",
+        "group": 38
+    },
+    {
+        "text": "The restaurant had green chairs on the terrace.",
+        "target": "green",
+        "label": "green",
+        "group": 38
+    },
+    {
+        "text": "He drove a red truck to work.",
+        "target": "red",
+        "label": "red",
+        "group": 39
+    },
+    {
+        "text": "He drove a blue truck to work.",
+        "target": "blue",
+        "label": "blue",
+        "group": 39
+    },
+    {
+        "text": "He drove a green truck to work.",
+        "target": "green",
+        "label": "green",
+        "group": 39
+    }
+]
